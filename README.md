@@ -3,7 +3,7 @@
 
 ---
 
-### 💬 Sobre mim
+### Sobre mim
 
 Sou **desenvolvedor e educador** apaixonado por tecnologia, ensino e criação de soluções digitais.  
 Atualmente trabalho com **Java** e **Flutter**, desenvolvendo sistemas, APIs e aplicativos móveis com foco em **boas práticas, performance e design funcional**.  
@@ -12,7 +12,7 @@ Como professor de TI, leciono disciplinas de **programação, lógica, hardware 
 
 ---
 
-### 🧠 Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -33,20 +33,20 @@ Como professor de TI, leciono disciplinas de **programação, lógica, hardware 
 
 ---
 
-### 🚀 Projetos em destaque
+### Projetos em destaque
 
-📱 **App de Controle de Tarefas (Flutter)**  
+**App de Controle de Tarefas (Flutter)**  
 Aplicativo mobile com persistência local e interface moderna para gerenciamento de tarefas.
 
-☕ **API REST com Spring Boot**  
+**API REST com Spring Boot**  
 CRUD completo em Java, integrando banco de dados relacional e documentação com Swagger.
 
-🧩 **Sistema Educacional (Java + MySQL)**  
+**Sistema Educacional (Java + MySQL)**  
 Projeto desktop voltado à gestão de alunos e cursos, desenvolvido com foco em boas práticas de POO.
 
 ---
 
-### 🎯 Objetivo Profissional
+### Objetivo Profissional
 
 Busco oportunidades como **Desenvolvedor Júnior (Java / Flutter)**,  
 com foco em **crescimento técnico**, **projetos inovadores** e **colaboração em equipe**.
