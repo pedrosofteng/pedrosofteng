@@ -35,13 +35,13 @@ Como professor de TI, leciono disciplinas de **programação, lógica, hardware 
 
 ### Projetos em destaque
 
-**App de Controle de Tarefas (Flutter)**  
+**Aplicativo de Ocorrências EducaReg(Completo/Privado) (Flutter + Java)**  
 Aplicativo mobile com persistência local e interface moderna para gerenciamento de tarefas.
 
 **API REST com Spring Boot**  
 CRUD completo em Java, integrando banco de dados relacional e documentação com Swagger.
 
-**Sistema Educacional (Java + MySQL)**  
+**Consulta de Tabela Fipe Java(Consumindo API)**  
 Projeto desktop voltado à gestão de alunos e cursos, desenvolvido com foco em boas práticas de POO.
 
 ---
