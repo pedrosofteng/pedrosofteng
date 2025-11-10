@@ -36,7 +36,7 @@ Como professor de TI, leciono disciplinas de **programação, lógica, hardware 
 ### Projetos em destaque
 
 **Aplicativo de Ocorrências EducaReg(Completo/Privado) (Flutter + Java)**  
-Aplicativo mobile com persistência local e interface moderna para gerenciamento de tarefas.
+Aplicativo mobile fechado em contrato com uma escola Estadual, se quiser mais detalhes do projeto entrar em contrato.
 
 **API REST com Spring Boot**  
 CRUD completo em Java, integrando banco de dados relacional e documentação com Swagger.
